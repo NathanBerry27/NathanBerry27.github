@@ -3,9 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8c78ea8e926e25de352faa272294af7c",
+  "assets/AssetManifest.json": "b56fafedf9014018ac99630d65b7b6e8",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/images/blurry-overlay.png": "b13097b78b7fa7f414b7369bad342a36",
+"assets/images/headshots/nathan-berry.jpeg": "a8426671a082e515a9d9a29f770d75f2",
 "assets/images/logo.png": "adab59ac5b922787926796422a731645",
 "assets/images/tutorial.png": "0c005d63aaacd09ab6d8fa9cc5fa9e2e",
 "assets/NOTICES": "aa7ce9317abac9972625b305f3209425",
@@ -20,9 +22,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "81d0f1bd2580f6488e07f1f9bc4294f5",
-"/": "81d0f1bd2580f6488e07f1f9bc4294f5",
-"main.dart.js": "9cbf930414a927e1b004833520db35ed",
+"index.html": "10b3d3c05e0753365bf30fa8123182ed",
+"/": "10b3d3c05e0753365bf30fa8123182ed",
+"main.dart.js": "adc2e181a38d5b299fca45a0f296aebc",
 "manifest.json": "a9fab83d5d0bc48c6e1154092a99d0cd",
 "version.json": "2135b027dbf71500d8ce8e05922262bc"
 };
