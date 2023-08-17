@@ -10,7 +10,7 @@ const RESOURCES = {
 "assets/images/headshots/nathan-berry.jpeg": "a8426671a082e515a9d9a29f770d75f2",
 "assets/images/logo.png": "adab59ac5b922787926796422a731645",
 "assets/images/tutorial.png": "0c005d63aaacd09ab6d8fa9cc5fa9e2e",
-"assets/NOTICES": "aa7ce9317abac9972625b305f3209425",
+"assets/NOTICES": "dbee2803613fd91edb0ccf585d99cbe0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -22,9 +22,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7bf89b6f3a9f4941f27191c19465786a",
-"/": "7bf89b6f3a9f4941f27191c19465786a",
-"main.dart.js": "d23a4f08c1ccad05486da2eff3f1ad26",
+"index.html": "62e5acd6b14ba9a168c7e6a617cb27aa",
+"/": "62e5acd6b14ba9a168c7e6a617cb27aa",
+"main.dart.js": "cc08a4f35539f5be857c58fc0b1da1d5",
 "manifest.json": "a9fab83d5d0bc48c6e1154092a99d0cd",
 "version.json": "2135b027dbf71500d8ce8e05922262bc"
 };
